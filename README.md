@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @oslianyabel
-- 💼 I have experience in web development with django, chatbots with IA, webscraping and Odoo ERP
-- 🌱 I’m currently learning Angular
+- 💼 I have experience in Django, FastAPI, OpenAI SDK, webscraping and Odoo
 - 📫 How to reach me: oslianyabel@gmail.com
 
 <!---
