@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @oslianyabel
-- 💼 I have experience in Django, FastAPI, OpenAI SDK, webscraping and Odoo
+- 💼 I have expirience in:
+    - WhatsApp intelligent agents
+    - Development in Odoo
+    - Web applications with Django
 - 📫 How to reach me: oslianyabel@gmail.com
 
 <!---
