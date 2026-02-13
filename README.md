@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Osliani Figueiras
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=WhatsApp%2C+Telegram+and+ERP+Agents;Agents+with+Retrieval+Augmented+Generation+(RAG);Multi-Agent+Microsystems;agents+who+complete+sales+cycles+in+CRM+systems;Search+by+Similarity+With+Embeddings" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=WhatsApp%2C+Telegram+and+ERP+Agents;Agents+with+Retrieval+Augmented+Generation+(RAG);Multi-Agent+Microsystems;agents+who+complete+sales+cycles+in+CRM+systems;Search+by+Similarity+With+Embeddings;MCP+Server+Development" alt="Typing SVG" /></a>
 
 💻 **Software Engineer specializing in Python backend, automation, and AI solutions applied to business**  
 📍 Sancti Spíritus, Cuba  
 🌍 Nationalities: Cuban and Spanish  
-📫 Contact: [oslianyabel@gmail.com](mailto:oslianyabel@gmail.com) | 📱 +53 52045846
+📫 Contact: [oslianyabel@gmail.com](mailto:oslianyabel@gmail.com)
 
 ## 🚀 About Me
 
@@ -18,7 +18,7 @@ I focus on creating useful, scalable solutions with real-world impact
 - **Languages & Frameworks**: Python, Django, FastAPI, Odoo, Pydantic AI
 - **Frontend & Others:** HTML/CSS, JavaScript, XML/QWeb, TailwindCSS
 - **Databases:** PostgreSQL, MongoDB
-- **Specialization:** Agentes IA para WhatsApp
+- **Specialization:** WhatsApp AI agents that interact with ERP systems
 
 ## 🎓 Education
 
